@@ -8,7 +8,7 @@
  *     var right: TreeNode? = null
  * }
  */
-class Solution {
+class Q1110 {
     fun delNodes(root: TreeNode?, toDelete: IntArray): List<TreeNode?> {
         if(root == null){
             return listOf()

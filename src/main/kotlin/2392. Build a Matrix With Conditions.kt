@@ -1,4 +1,4 @@
-class Solution {
+class Q2392 {
 
     private fun topoSort(arr: Array<IntArray>,n: Int): List<Int>{
         val adj = mutableMapOf<Int,MutableList<Int>>()

@@ -1,5 +1,6 @@
 class Q2678 {
     fun countSeniors(details: Array<String>): Int {
+
         var ans = 0
 
         for(str in details){

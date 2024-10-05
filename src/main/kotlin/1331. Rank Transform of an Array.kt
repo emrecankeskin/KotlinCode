@@ -1,4 +1,4 @@
-class Solution {
+class Q1331 {
     fun arrayRankTransform(arr: IntArray): IntArray {
         if(arr.isEmpty()){
             return IntArray(0)

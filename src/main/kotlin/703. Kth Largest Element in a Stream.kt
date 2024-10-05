@@ -1,6 +1,6 @@
 import java.util.PriorityQueue
 
-class KthLargest(k: Int, nums: IntArray) {
+class Q703(k: Int, nums: IntArray) {
     private val pq = PriorityQueue<Int>()
     private var k = 0
     init{
